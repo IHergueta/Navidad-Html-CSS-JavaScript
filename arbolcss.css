@@ -1,0 +1,94 @@
+ html{
+  background-color: #c03636;
+  
+}
+
+#the-wrap{
+  width: 1000px;
+  margin: auto;
+  
+}
+
+.ball-wrapper{
+  float: left;
+  margin: 0px 40px;
+  
+}
+.ring{
+  height:15px;
+  width: 5px;
+  background-color: ##c03636;
+  border: 2px solid  #f99d24;
+  border-radius: 45%;
+  position: relative;
+  left: 76.4px;
+  top: 12px;
+}
+
+.string{
+ 
+  width: 1.5px;
+  position: relative;
+  background-color: #f99d24;
+  height: 200px;
+  left: 80px;
+  top: 12.4px;
+  margin-top: -20px;
+  
+  
+}
+
+
+
+.button {
+  height: 22px;
+  width: 30px;
+  background-color: #f99d24;
+  position: relative;
+  left: 65px;
+  top: 7px;
+  border-radius: 4px;
+
+
+}
+
+
+.red-ball {
+  background-color: #6b2f36;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 3px;
+  
+  }
+
+.green-ball {
+  background-color: #9cd6ac;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 3px;
+  
+  }
+
+.blue-ball{
+ background-color: #475479;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 3px;  
+  
+}
+
+.white-ball{
+ background-color: #f9f9f9;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 3px;  
+  
+}
